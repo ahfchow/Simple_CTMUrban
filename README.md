@@ -1,6 +1,6 @@
 # Simple_CTMUrban
 
-This is a simple simulator for signal-controlled urban street networks (mainly created for students to further develop) based upon cell transmission model (CTM). The CTM computation is implemented mainly based on work by Kurzhanskiy and Varaiya (2009). 
+This is a simple simulator developed in MATLAB (mainly prepared for students with little experience on computer coding) for signal-controlled urban street networks based upon cell transmission model (CTM). The CTM computation is implemented mainly based on work by Kurzhanskiy and Varaiya (2009). 
 
 - Reference: 
 Kurzhanskiy A, Kwon J and Varaiya P (2009) Aurora Road Network Modeler. In: Proceedings of 12th IFAC Symposium on Control in Transportation Systems.
